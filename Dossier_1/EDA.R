@@ -3,4 +3,4 @@
 data("CO2")
 
 
-summary(CO2)
+str(CO2)
